@@ -56,7 +56,7 @@ const Resume = () => {
                             <h3 className="resume-title">Work Experience</h3>
                             <div className="resume-item">
                                 <h4>MERN Developer</h4>
-                                <h5 className='bg-transparent'>2022 - Present</h5>
+                                <h5 className='bg-transparent'>Oct 2023 - Present</h5>
                                 <p><em>Indore , India</em></p>
                                 <ul>
                                     <li>Full Stack Development: Handle front-end and back-end tasks using MongoDB, Express.js, React.js, and Node.js.</li>
@@ -67,7 +67,7 @@ const Resume = () => {
                             </div>
                             <div className="resume-item">
                                 <h4>INTERSHIP</h4>
-                                <h5 className='bg-transparent'>2022</h5>
+                                <h5 className='bg-transparent'>2023</h5>
                                 <p><em>Indore , India</em></p>
                                 <ul>
                                     <li>Eskill Web is a training center and provides specific frontend development

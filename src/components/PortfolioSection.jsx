@@ -88,8 +88,10 @@ const PortfolioSection = () => {
                                     <div className="portfolio-links">
                                         {/* <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
                                             className="portfolio-lightbox" title="Card 2"><i className="bx bx-plus"></i></a> */}
+
                                         <a href="https://chouhanankit.github.io/Ankitmotorola/" target="_blank" className="portfolio-details-lightbox" data-glightbox="type: external"
                                             title="Portfolio Details"><i className="bx bx-link"></i></a>
+
                                     </div>
                                 </div>
                             </div>
