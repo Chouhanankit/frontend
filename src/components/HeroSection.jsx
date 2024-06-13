@@ -9,7 +9,7 @@ const HeroSection = () => {
 
 
         <>
-            <section id="hero" className="d-flex w-full flex-column justify-content-center ">
+            <section id="hero" className="d-flex flex-column justify-content-center ">
                 <div className="container" data-aos="zoom-in" data-aos-delay="100">
                     <h1>Ankit Chouhan</h1>
                     <p style={{ fontWeight: 'normal' }}>

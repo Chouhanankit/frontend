@@ -46,7 +46,7 @@ const PortfolioSection = () => {
                                     <div className="portfolio-links">
                                         {/* <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
                                             className="portfolio-lightbox" title="App 2"><i className="bx bx-plus"></i></a> */}
-                                        <a href="https://support-frontend-theta.vercel.app" target="_blank" className="portfolio-details-lightbox" data-glightbox="type: external"
+                                        <a href="https://supportdesk-new-fron.vercel.app/" target="_blank" className="portfolio-details-lightbox" data-glightbox="type: external"
                                             title="Portfolio Details"><i className="bx bx-link"></i></a>
                                     </div>
                                 </div>
