@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import image from '../assets/Ankit.jpg'
+import image from '../assets/ankit.jpg'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -32,8 +32,8 @@ const AboutSection = () => {
             <section id="about" className="about p-2" data-aos="fade-left">
 
                 <div className="row" data-aos="fade-left">
-                    <div className="col-lg-4 flex justify-center">
-                        <img src={image} style={{ width: "400px" }} className="img-fluid " alt="" />
+                    <div className="col-lg-4 flex justify-center" id='ankitimg'>
+                        <img src={image} style={{ width: "400px"}} className="img-fluid " alt="" />
                     </div>
                     <div className="col-lg-8 pt-4 pt-lg-0 content">
                         <h3>Web Developer</h3>
